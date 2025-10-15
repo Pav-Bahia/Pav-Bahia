@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Pav-Bahia
-- 👀 I’m interested in learing 
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in learing
 - 💞️ I’m looking to collaborate on anything that helps me learn
 - 📫 How to reach me ...
 
